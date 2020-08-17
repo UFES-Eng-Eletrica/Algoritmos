@@ -1,3 +1,22 @@
+'''
+usando a função integrate do módulo Integration_Euler, conseguimos utilizar o metodo
+em uma equacao diferencial de 2 ordem
+
+y" = -0.1y' - x
+ com valores iniciais :
+ y(0) = 0
+ y'(0) = 1
+
+integrar essa equacao com o metodo de euler de 0 a 2 com passo de 0.05
+
+comparar com a solução analítica :
+
+y = 100x − 5x2 + 990(e−0.1x − 1)
+
+
+'''
+
+
 import numpy as np
 from Integration_Euler import integrate
 import matplotlib.pyplot as plt
