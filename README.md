@@ -17,7 +17,8 @@ Na mesma pasta também tem o [código de Comparação](https://github.com/PedroF
 
 O resultado da comparação:
 
-<img src=""/>
+<img width="1063" alt="Screen Shot 2020-08-16 at 23 09 16" src="https://user-images.githubusercontent.com/44576768/90351079-847de680-e015-11ea-9fbb-0059553dd1d0.png">
+
 
 
 
