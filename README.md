@@ -15,7 +15,7 @@ método Runge-Kutta de 2 ordem e 4 ordem.
 
 Na mesma pasta também tem o [código de Comparação](https://github.com/PedroFabriz2/Algoritmos/blob/master/Cap25_Chapra_RungeKutta/ComparingMethods.py) dos métodos, utilizando o mesmo problema de integração:
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=%20y%27%27%3D-0.1y%27-x%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt=" y''=-0.1y'-x " width="136" height="21" />
+y''=-0.1y'-x
 
 O resultado da comparação:
 
