@@ -30,8 +30,7 @@ O resultado da comparação:
 
 O resultado da aplicação está representado no gráfico:
 
-
-
+![Figure_1](https://user-images.githubusercontent.com/44576768/91508859-050ed380-e8af-11ea-9459-314424906f48.png)
 
 
 
