@@ -33,4 +33,19 @@ O resultado da aplicação está representado no gráfico:
 ![Figure_1](https://user-images.githubusercontent.com/44576768/91508859-050ed380-e8af-11ea-9459-314424906f48.png)
 
 
+* RK4 e Euler
+![Figure2](https://github.com/PedroFabriz2/Algoritmos/blob/master/Lista/Q12/Q28_28.png?raw=true)
+
+![Figur](https://github.com/PedroFabriz2/Algoritmos/blob/master/Lista/Q12/Q28_3.png?raw=true)
+
+* SPLINES
+![Figure3](https://github.com/PedroFabriz2/Algoritmos/blob/master/Lista/Q8/spline.png?raw=true)
+
+* Gauss Elimination
+![Figure4](https://github.com/PedroFabriz2/Algoritmos/blob/master/Lista/Q9/Q20_54.png?raw=true)
+
+
+
+
+
 
